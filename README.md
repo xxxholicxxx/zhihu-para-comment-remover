@@ -1,2 +1,2 @@
-# zhihu-para-comment-remover
-知乎去除段评虚线
+# 知乎去除段评虚线
+拒绝他人在回答中随意划重点
