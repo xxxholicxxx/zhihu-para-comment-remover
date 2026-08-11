@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         知乎去除段评虚线 + 去除关键词链接
+// @name         知乎去除段评虚线
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  移除class属性，保留所有内容；并去除关键词超链接（清空父节点其余内容）
 // @author       HoLiX
 // @match        *://www.zhihu.com/*
 // @match        *://zhuanlan.zhihu.com/*
 // @grant        GM_addStyle
+// @license      MIT
 // ==/UserScript==
 (function() {
     'use strict';
